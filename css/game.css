@@ -76,7 +76,7 @@ header {
 
 @media screen and (max-width: 320px) {
     
-    header, span {
+    header {
         display: block;
     }
 }
