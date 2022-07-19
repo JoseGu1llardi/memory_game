@@ -73,3 +73,10 @@ header {
     filter: saturate(0);
     opacity: .5;
 }
+
+@media screen and (max-width: 320px) {
+    
+    header, span {
+        display: block;
+    }
+}
