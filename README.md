@@ -22,8 +22,6 @@
 
 ![screen-game](https://user-images.githubusercontent.com/63321040/179844951-6892a21a-3963-4dd0-bba7-95a548a6bbcb.png)
 
-![mobile-login](https://user-images.githubusercontent.com/63321040/179847658-fc218814-8cba-4505-9f6c-f2da9c459d89.png)
-
 ## Technologies Used:
 
 <table>
