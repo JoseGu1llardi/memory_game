@@ -2,18 +2,25 @@
 
 > Status: Completed ✔️
 
-## This is a web application.
-
 <br>
+
+![memory-game](https://user-images.githubusercontent.com/63321040/179844188-0090fda1-c0b6-4e2b-a4eb-5185ca5683a4.png)
+
+## This is a web application.
 
 ### This is a web application developed using newer concepts of technologies, to improve and improve the memory of the usual, fun and bringing as theme a new and popular drawing, much loved by adults and children.
 
 <br>
 
-
-    Game developed using the technologies Javascript vanilla, HTML5 and CSS3, accessing localStorage browser, manipulation of the DOM, time functions, CSS animations and responsiveness of screens.
+<p>
+    Game developed using the technologies Javascript vanilla, HTML5 and CSS3, accessing localStorage browser, manipulation of the DOM, time functions, CSS animations and     responsiveness of screens.
+</p>
 
 <br>
+
+![screen-login](https://user-images.githubusercontent.com/63321040/179844684-46d53772-4232-4637-bad2-e01ad679613d.png)
+
+![screen-game](https://user-images.githubusercontent.com/63321040/179844951-6892a21a-3963-4dd0-bba7-95a548a6bbcb.png)
 
 ## Technologies Used:
 
