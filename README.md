@@ -1,6 +1,6 @@
 <h1>Game of memory with Javascript</h1>
 
-> Status: Completed ✔️
+> Status: Developing ⚠️
 
 <br>
 
@@ -13,7 +13,7 @@
 <br>
 
 <p>
-    Game developed using the technologies Javascript vanilla, HTML5 and CSS3, accessing localStorage browser, manipulation of the DOM, time functions, CSS animations and     responsiveness of screens.
+    Game developed using the technologies Javascript vanilla, HTML5 and CSS3, accessing localStorage browser, manipulation of the DOM, time functions, CSS animations and responsiveness of screens.
 </p>
 
 <br>

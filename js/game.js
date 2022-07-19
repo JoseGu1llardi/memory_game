@@ -114,6 +114,7 @@ const loadGame = () => {
         grid.appendChild(card);
 
     });
+    
 };
 
 const startTimer = () => {
