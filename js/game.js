@@ -100,7 +100,7 @@ const createCard = (character) => {
     card.appendChild(back);
 
     card.addEventListener('click', revealCard);
-    card.setAttribute('data-character', character)
+    card.setAttribute('data-character', character);
 
     return card;
 
